@@ -1,0 +1,22 @@
+PODS:
+  - Routing (1.1.0)
+
+DEPENDENCIES:
+  - Routing (from `https://github.com/nonameplum/Routing.git`, branch `Feature/go_back`)
+
+EXTERNAL SOURCES:
+  Routing:
+    :branch: Feature/go_back
+    :git: https://github.com/nonameplum/Routing.git
+
+CHECKOUT OPTIONS:
+  Routing:
+    :commit: 77f2be341c5dd8f38265fdb335b1e7b1fd3fab96
+    :git: https://github.com/nonameplum/Routing.git
+
+SPEC CHECKSUMS:
+  Routing: 21e9127e2085322a864b787360374f0da2043c74
+
+PODFILE CHECKSUM: 4e63a4ab28617d4f1a15033d566f8f532e93be0e
+
+COCOAPODS: 1.0.1
